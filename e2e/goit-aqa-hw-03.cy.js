@@ -1,4 +1,4 @@
-import { LoginPageTest } from "./pages/login";
+import { LoginPageTest } from "./pages/Login";
 
 import { HomePageTests } from "./pages/HomePage";
 

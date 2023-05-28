@@ -1,4 +1,4 @@
-name: my first Cypress tests with automate starts
+name: my first Cypress tests with automated starts
 on: push
 jobs: 
   cypress-run:
